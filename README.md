@@ -3,7 +3,7 @@
                           Master’s Degree in Microelectronics, Signals, and Systems
   
 - 👀 I’m interested in FPGA development, IC backend design, and embedded systems. 
-- 📫 How to reach me : [LinkedIn](https://linkedin.com/in/salim-aamraoui) | [Email](mailto:aamraouisalim1@gmail.com)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/salimaamraoui/) | [Email](mailto:aamraouisalim1@gmail.com)
 
 
 
